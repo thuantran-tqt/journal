@@ -6,7 +6,7 @@ export default function Page() {
       <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
         My Life Journal
       </h1>
-      <div className="my-8">
+      <div className="my-12">
         <BlogPosts />
       </div>
     </section>
