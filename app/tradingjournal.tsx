@@ -1,6 +1,6 @@
 import { BlogTradingPosts } from 'app/components/tradingposts'
 
-export default function Page() {
+export default function TradingJournal() {
   return (
     <section>
       <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
