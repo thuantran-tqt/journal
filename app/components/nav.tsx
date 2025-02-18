@@ -4,6 +4,9 @@ const navItems = {
   '/': {
     name: 'Home',
   },
+  '/trading-journal.tsx': {
+    name: 'Trading Journal',
+  },
   'https://x.com/viniumcapital': {
     name: 'X (Twitter)',
   },
