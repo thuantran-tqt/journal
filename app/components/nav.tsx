@@ -4,7 +4,7 @@ const navItems = {
   '/': {
     name: 'Home',
   },
-  'https://x.com/viniumcapital': {
+  'https://x.com/thuantran_tqt': {
     name: 'X (Twitter)',
   },
 }
